@@ -1,4 +1,3 @@
-```markdown
 # Détection de Tweet Suspect
 
 ## Description du projet
