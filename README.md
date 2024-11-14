@@ -17,12 +17,12 @@ Ce projet vise à détecter des tweets suspects ou malveillants en utilisant des
 Tweet_Suspect_Detection/
 │
 ├── data/
-│   ├── raw_data.csv          # Données brutes (tweets non traités)
+│   ├── tweets_suspect.csv          # Données brutes (tweets non traités)
 │   ├── processed_data.csv    # Données après prétraitement (tweets nettoyés)
 │
 ├── notebooks/
-│   ├── 1_data_exploration.ipynb   # Notebook pour l'analyse exploratoire des données
-│   ├── 2_data_preprocessing.ipynb # Notebook pour le nettoyage et le prétraitement des données
+│   ├── 1_exploration.ipynb   # Notebook pour l'analyse exploratoire des données
+│   ├── 2_preprocessing.ipynb # Notebook pour le nettoyage et le prétraitement des données
 │   ├── 3_model_training.ipynb     # Notebook pour l'entraînement des modèles
 │   └── 4_model_evaluation.ipynb   # Notebook pour l'évaluation et la validation des modèles
 │

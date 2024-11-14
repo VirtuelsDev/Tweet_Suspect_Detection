@@ -1,0 +1,11 @@
+nltk
+pyyaml  # Ajoutez cette ligne
+streamlit
+pandas
+yaml
+scikit-learn
+numpy
+matplotlib
+seaborn
+requests
+

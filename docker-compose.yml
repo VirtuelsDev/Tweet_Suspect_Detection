@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  tweetsuspectdetection:
+    image: tweetsuspectdetection
+    build:
+      context: .
+      dockerfile: ./Dockerfile
